@@ -68,13 +68,3 @@ Existing functionality includes API-token authentication, hashed tokens, granula
 ./gradlew build
 ./gradlew test
 ```
-
-## Attribution
-This project uses **Escalated Spring** as an open-source foundation.
-
-Original repository: https://github.com/escalated-dev/escalated-spring
-
-The original MIT license and copyright notices are preserved. See `LICENSE`, `NOTICE.md`, `CONTRIBUTIONS.md` and `docs/ORIGINAL_README.md`.
-
-## License
-The foundation is licensed under the MIT License. This portfolio repository does not claim original authorship of the Escalated Spring foundation source code.
